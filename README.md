@@ -12,7 +12,7 @@ Scan the QR code below with your smartphone's camera to launch the augmented rea
 <br/>
 
 Alternatively, if you are on a mobile device, you can click this link:
-**[Launch AR Experience]([YOUR_MYWEB_AR_LINK_HERE])**
+**[Launch AR Experience](https://mywebar.com/p/Project_0_ndoxegh3hd)**
 
 ## 📸 Screenshots
 
