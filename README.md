@@ -7,7 +7,7 @@ A simple, real-time WebAR project that displays a 3D model in the real world. Th
 
 Scan the QR code below with your smartphone's camera to launch the augmented reality experience.
 
-![AR Demo QR Code](qrcode.png)
+![AR Demo QR Code](ASSETS/QRCODE.jpg)
 
 <br/>
 
@@ -16,7 +16,9 @@ Alternatively, if you are on a mobile device, you can click this link:
 
 ## 📸 Screenshots
 
-*(Add a few screenshots of your project working here. You can upload them to your repo and link them like this:)*
+Here is a screenshot of the project in action:
+
+![AR Project Screenshot](ASSETS/AR_IMAGE.jpg)
 
 ## 🛠️ Technology Stack
 
@@ -29,3 +31,4 @@ Alternatively, if you are on a mobile device, you can click this link:
 
 For a detailed breakdown of the project's methodology, challenges, and conclusions, please see the full project report.
 
+[View Full Project Report (PDF)](ASSETS/AR-VR-REPORT.pdf)
