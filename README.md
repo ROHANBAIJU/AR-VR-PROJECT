@@ -31,4 +31,4 @@ Here is a screenshot of the project in action:
 
 For a detailed breakdown of the project's methodology, challenges, and conclusions, please see the full project report.
 
-[View Full Project Report (PDF)](ASSETS/RB_AR_VR_REPORT.pdf)
+View Full Project Report (PDF) in ASSETS/RB_AR_VR_REPORT.pdf
